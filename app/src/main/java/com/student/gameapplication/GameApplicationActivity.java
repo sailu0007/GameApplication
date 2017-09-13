@@ -11,5 +11,7 @@ public class GameApplicationActivity extends AppCompatActivity {
         setContentView(R.layout.activity_game_application);
 
         //yes i pushed
+
+        //again
     }
 }
